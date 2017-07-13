@@ -8,7 +8,9 @@ To install:
  do:
 
 git clone https://github.com/mycroft91/duelyst_linux.git
+
 cd duelyst_linux
+
 sudo ./install_duelyst.sh
 
 To add T2k5 scripts see the example in the install script. You NEED to change the path to reflect your installation directory.
