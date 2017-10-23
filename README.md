@@ -1,4 +1,4 @@
-Linux installer for duelyst 32bit. Tested on ubuntu gnome 64 bit.
+Linux installer for duelyst 32bit. Tested on ubuntu gnome 64 bit in june 2017
 
 This script is made from another pre-existing script(now depricated) and I cannot find the source of it. If anyone finds the original, Please let me know I will link it here.
 
@@ -7,7 +7,7 @@ Requires npm, node, curl, wget
 To install:
  do:
 
-git clone https://github.com/mycroft91/duelyst_linux.git
+git clone https://github.com/mycroft92/duelyst_linux.git
 
 cd duelyst_linux
 
